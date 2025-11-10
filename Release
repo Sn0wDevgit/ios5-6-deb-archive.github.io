@@ -1,0 +1,8 @@
+Origin: ios5-6-deb-archive
+Label: ios5-6-deb-archive
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: An iOS 5-6 deb files archive
